@@ -466,6 +466,12 @@ template {
   padding: 0 .75em;
 }
 
+.developer{
+  margin-top: 2em;
+  font-size: .75em;
+  color: #048ca8;
+}
+
 @media (min-width: 45rem) {
   .col:first-of-type {
     padding-left: 0;
